@@ -8,7 +8,7 @@ function App() {
   
   return (
     <div className="App container">
-      <h2 className="text-center text-secondary m-3">Gridnine тестовое задание <a href="#">source code</a></h2>
+      <h2 className="text-center text-secondary m-3">Gridnine тестовое задание <a href="https://github.com/grigorev-web/gridnine-test/tree/main/src">source code</a></h2>
       <div className="content-wrapper">
         <Sidebar />
         <TableFlights />
