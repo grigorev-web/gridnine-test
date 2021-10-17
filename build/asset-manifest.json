@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gridnine-test/build/static/css/main.aa651a2a.chunk.css",
-    "main.js": "/gridnine-test/build/static/js/main.825b71dc.chunk.js",
-    "main.js.map": "/gridnine-test/build/static/js/main.825b71dc.chunk.js.map",
+    "main.js": "/gridnine-test/build/static/js/main.d089b5ba.chunk.js",
+    "main.js.map": "/gridnine-test/build/static/js/main.d089b5ba.chunk.js.map",
     "runtime-main.js": "/gridnine-test/build/static/js/runtime-main.1c3f3ee2.js",
     "runtime-main.js.map": "/gridnine-test/build/static/js/runtime-main.1c3f3ee2.js.map",
     "static/js/2.6ae0fcea.chunk.js": "/gridnine-test/build/static/js/2.6ae0fcea.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1c3f3ee2.js",
     "static/js/2.6ae0fcea.chunk.js",
     "static/css/main.aa651a2a.chunk.css",
-    "static/js/main.825b71dc.chunk.js"
+    "static/js/main.d089b5ba.chunk.js"
   ]
 }
