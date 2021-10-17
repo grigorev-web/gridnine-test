@@ -1,0 +1,42 @@
+.card {
+  font-size: 20px;
+  margin: 0 10px 30px 10px;
+  
+}
+
+.cardCaption {
+  background: #0087c9;
+  color:white;
+  padding: 0 10px;
+
+}
+.cardLeg {
+    padding: 10px;
+}
+.chooseBtn {
+    height: 35px;
+  background: #ffb168;
+  color:white;
+  text-align: center;
+  cursor:pointer;
+  transition:all ease 0.2s;
+}
+.chooseBtn:hover{
+    background:#f49235;
+}
+.captionTop {
+  display: flex;
+  justify-content: space-between;
+}
+.captionBottom {
+    font-size:14px;
+    text-align: right;
+}
+.carrierInfo{
+    padding: 0 10px;
+}
+
+.timeBlock{
+    display:flex;
+    justify-content: space-between;
+}
